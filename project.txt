@@ -1,0 +1,3 @@
+project outline 
+===============
+some initial data analysis to identify how information changes over time after surgery. 
