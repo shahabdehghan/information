@@ -5,4 +5,6 @@ some initial data analysis to identify how information changes over time after s
 Jane is a Data Scientist. 
 Sunit is a Statistician. 
 
-It's likely we will need a Research Software. 
+It's likely we will need a Research Software. They will also need to be familiar with other things.  
+
+Version control is needed, as it would be useful. 
